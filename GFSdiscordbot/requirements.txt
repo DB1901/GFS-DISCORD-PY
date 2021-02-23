@@ -1,0 +1,5 @@
+aiohttp == 3.5.4
+requests == 2.22.0
+websockets == 7.0
+python_dateutil
+psycopg2
