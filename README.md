@@ -1,4 +1,5 @@
-# GFS-DISCORD-PY
+# GFS-DISCORD-PY 
+
 This code is for the Gamefromscratch discord bot.
 VIDEO SEARCH (ACTIVE)
 REACTION ROLES (ACTIVE)
